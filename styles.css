@@ -6,6 +6,10 @@
 	background-color  : #F0FFFF ;
 }
 
+.steps_list {
+  width: 200px;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
